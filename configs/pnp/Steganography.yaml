@@ -1,0 +1,7 @@
+config:
+  experiment_name: "datasets"
+  init_img: ""
+  prompt: "a horse in mud"
+  scale: 5.0
+  ddim_steps: 50
+  seed: 50

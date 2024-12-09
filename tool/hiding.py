@@ -50,6 +50,3 @@ def hide(method,secret,secret_attn,n=1,q=2000,lamda_a=2,lamda_l=0.5,samples_ddim
 
         
     return steg_64[1:,:,:,:],change_attn
-        
-
-   
